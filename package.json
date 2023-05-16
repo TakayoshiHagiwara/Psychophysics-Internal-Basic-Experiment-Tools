@@ -1,0 +1,22 @@
+{
+  "name": "com.takayoshihagiwara.psychophysics-internal-basic-experiment-tools",
+  "version": "0.0.1",
+  "displayName": "Psychophysics Internal Basic Experiment Tools",
+  "description": "This is an internal laboratory tool used in basic psychophysics experiments",
+  "unity": "2021.3",
+  "unityRelease": "15f1",
+  "keywords": [
+    "psychophysics",
+    "internal-tool"
+  ],
+  "author": {
+    "name": "Takayoshi Hagiwara"
+  },
+  "samples": [
+    {
+        "displayName": "Sample Scene",
+        "description": "Sample Scene",
+        "path": "Samples~/ToolSample"
+    }
+  ]
+}
